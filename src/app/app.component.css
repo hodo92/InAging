@@ -22,7 +22,11 @@
 }
 
 img{
-    background: url("../assets/img.jpg")no-repeat center fixed;
+    background: url("/assets/img.jpg")no-repeat center fixed;
     height: 100%;
     width: 100%;
+}
+
+#tiviclick_external >  .tivivlick_header {
+    margin-right: 200px ; 
 }
