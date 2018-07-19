@@ -1,0 +1,28 @@
+.family {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+
+.friends {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  
+}
+
+.support {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  
+}
+
+img{
+    background: url("../assets/img.jpg")no-repeat center fixed;
+    height: 100%;
+    width: 100%;
+}
