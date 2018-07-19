@@ -17,6 +17,7 @@ app.use(function (err, req, res, next) {
 })
 
 const port = process.env.PORT || '3000';
+const host = '0.0.0.0';
 app.set('port', port);
 
 /**
